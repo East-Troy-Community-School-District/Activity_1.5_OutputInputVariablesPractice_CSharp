@@ -1,0 +1,2 @@
+\\et-fileserver\staff\pawnol\Desktop\CopyMachine\obj\Debug\CopyMachine.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\CopyMachine\obj\Debug\CopyMachine.csproj.CoreCompileInputs.cache

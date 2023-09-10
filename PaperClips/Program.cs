@@ -1,7 +1,8 @@
 ﻿/*
  * PaperClips 
- * 12/9/2022
- * C#.NET I
+ * Pawelski
+ * 9/10/2023
+ * Developing Desktop Applications
  */
 
 using System;

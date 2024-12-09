@@ -17,8 +17,8 @@ namespace PaperClips
     {
         static void Main(string[] args)
         {
-            double grams, paperClips;
-            grams = Math.Ceiling(paperClips / 1.5);
+            double mass, paperClips;
+            paperClips = Math.Ceiling(mass / 1.5);
             Console.WriteLine("A mass of " + mass + " grams is about"
                 + paperClips + " paper clips.");
         }
